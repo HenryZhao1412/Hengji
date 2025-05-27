@@ -1,1 +1,11 @@
-111
+    {
+        "cell_type": "code",
+        "execution_count": null,
+        "outputs": [],
+        "metadata": {
+          "id": "e2769b9e0005"
+        },
+        "source": [
+          "!pip install git+https://github.com/google/starthinker\n"
+        ]
+     },
